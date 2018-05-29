@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Rlucas12/todo-api/issues"
   },
-  "homepage": "https://github.com/Rlucas12/todo-api#readme"
+  "homepage": "https://github.com/Rlucas12/todo-api#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.37.10"
+  }
 }
